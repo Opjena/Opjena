@@ -1,4 +1,5 @@
-# 💫 About Me:
+# Hey , I'm Omm prakash
+
 I'm currently learning java , c#<br>Ask me about Python, C , MySql<br>How to reach me ojena643@gmail.com
 
 
