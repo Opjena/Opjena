@@ -1,4 +1,5 @@
-# Hey , I'm Omm prakash
+<h1 align="center">Hi 👋, I'm Omm Prakash</h1>
+<h3 align="center">A passionate cybersecurity enthusiast from India</h3>
 
 I'm currently learning java , c#<br>Ask me about Python, C , MySql<br>How to reach me ojena643@gmail.com
 
